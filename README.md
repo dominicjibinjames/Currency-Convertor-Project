@@ -34,5 +34,5 @@ Welcome to the Currency Converter! This project is a simple web-based tool that 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/dominicjibinjames/currency-converter.git
 
